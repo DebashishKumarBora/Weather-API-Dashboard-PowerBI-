@@ -37,6 +37,10 @@ The dashboard uses live data fetched from **WeatherAPI**, covering:
 
 ## 📊 Dashboard Preview
 <img width="1324" height="724" alt="Screenshot 2025-07-18 040152" src="https://github.com/user-attachments/assets/04e2488a-b856-4a3c-859b-02a72e5f8b00" />
+<img width="1919" height="706" alt="Screenshot 2025-08-03 194404" src="https://github.com/user-attachments/assets/bbe2a727-fd20-4fdd-8883-09ae5a6360ea" />
+<img width="1919" height="985" alt="Screenshot 2025-08-03 194459" src="https://github.com/user-attachments/assets/73425b70-d358-4faf-bde7-317508433d74" />
+<img width="1919" height="893" alt="Screenshot 2025-08-03 194421" src="https://github.com/user-attachments/assets/44d98e06-4f96-4ddf-8b8e-86aa6d830bbf" />
+
 
 
 ---
