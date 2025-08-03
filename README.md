@@ -36,8 +36,8 @@ The dashboard uses live data fetched from **WeatherAPI**, covering:
 ---
 
 ## 📊 Dashboard Preview
-![Weather Dashboard](ht<img width="1324" height="724" alt="Screenshot 2025-07-18 040152" src="https://github.com/user-attachments/assets/04e2488a-b856-4a3c-859b-02a72e5f8b00" />
-tps://github.com/YourGitHubUsername/Weather-Dashboard-PowerBI-API/assets/YourScreenshotID.png)
+(ht<img width="1324" height="724" alt="Screenshot 2025-07-18 040152" src="https://github.com/user-attachments/assets/04e2488a-b856-4a3c-859b-02a72e5f8b00" />
+
 
 ---
 
